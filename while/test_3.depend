@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606870322 source:e:\embedded_systems_diploma\c cource\c programs\test_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

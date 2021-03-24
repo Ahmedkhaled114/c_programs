@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1609790229 source:e:\embedded_systems_diploma\c cource\c programs\functions_robot_movement\main.c
+	<stdio.h>
+	<stdlib.h>
+	"motor_movement.h"
+
+1609788728 e:\embedded_systems_diploma\c cource\c programs\functions_robot_movement\motor_movement.h
+	"motor_movement_speed.h"
+
+1609788691 source:e:\embedded_systems_diploma\c cource\c programs\functions_robot_movement\motor_movement.c
+	"motor_movement.h"
+
+1607880570 source:e:\embedded_systems_diploma\c cource\c programs\functions_robot_movement\motor_movement_speed.c
+	"motor_movement_speed.h"
+
+1615724707 e:\embedded_systems_diploma\c cource\c programs\functions_robot_movement\motor_movement_speed.h
+

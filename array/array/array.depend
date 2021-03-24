@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609849838 source:e:\embedded_systems_diploma\c cource\c programs\array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1609856722 source:e:\embedded_systems_diploma\c cource\c programs\array\array\main.c
+	<stdio.h>
+	<stdlib.h>
+

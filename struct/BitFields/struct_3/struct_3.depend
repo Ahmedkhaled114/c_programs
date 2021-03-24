@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611433748 source:e:\embedded_systems_diploma\c cource\c programs\struct\bitfields\struct_2\struct_3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1611434880 source:e:\embedded_systems_diploma\c cource\c programs\struct\bitfields\struct_3\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611427173 source:e:\embedded_systems_diploma\c cource\c programs\pointer\pointer\pointer_5\main.c
+	<stdio.h>
+	<stdlib.h>
+

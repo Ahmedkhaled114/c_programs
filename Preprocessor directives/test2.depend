@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1599853536 source:d:\embedded systems\spark\11sep2020\test2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1599854442 d:\embedded systems\spark\11sep2020\test2\main.h
+	"system1.h"
+	"system2.h"
+	"system3.h"
+
+1611878122 source:e:\embedded_systems_diploma\vid\22\11sep2020\test2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1611878147 e:\embedded_systems_diploma\vid\22\11sep2020\test2\main.h
+	"system1.h"
+	"system2.h"
+	"system3.h"
+

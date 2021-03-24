@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611594844 source:e:\embedded_systems_diploma\c cource\c programs\union\main.c
+	<stdio.h>
+	<stdlib.h>
+

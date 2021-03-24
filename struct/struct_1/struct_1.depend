@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1611209824 source:e:\embedded_systems_diploma\c cource\c programs\struct\struct_1\untitled1..c
+
+1611402599 source:e:\embedded_systems_diploma\c cource\c programs\struct\struct_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1611327639 e:\embedded_systems_diploma\c cource\c programs\struct\struct_1\main.h
+
